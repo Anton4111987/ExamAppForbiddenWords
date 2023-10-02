@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamAppForbiddenWords", "ExamAppForbiddenWords\ExamAppForbiddenWords.csproj", "{1AEAE5C3-2C15-4A09-9B2B-4852A95144F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AEAE5C3-2C15-4A09-9B2B-4852A95144F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEAE5C3-2C15-4A09-9B2B-4852A95144F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEAE5C3-2C15-4A09-9B2B-4852A95144F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEAE5C3-2C15-4A09-9B2B-4852A95144F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0E516D-01DB-4E57-961B-08BF76DA57B0}
+	EndGlobalSection
+EndGlobal
